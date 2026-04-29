@@ -81,12 +81,14 @@ Or click the **Fund with Friendbot** link shown directly in the app.
 ## Screenshots
 
 ### Wallet Connected + Balance
-![Wallet Connected](screenshots/wallet-connected.png)
+![Wallet Connected](screenshots/connected.png)
+![Wallet Connected](screenshots/wallet.png)
 
-### Successful Transaction
+
+### Successful Transaction  with Hash
 ![Transaction Success](screenshots/transaction-success.png)
 
-### Transaction Result with Hash
+### Transaction Result on Stellar Expert
 ![Transaction Result](screenshots/transaction-result.png)
 
 ---
