@@ -6,6 +6,10 @@ Built with React + Vite, it lets users connect their Freighter wallet, view thei
 
 ---
 
+## Live Demo
+
+[https://stellar-wallet-lemon.vercel.app](https://stellar-wallet-lemon.vercel.app)
+
 ## Live Transaction Proof
 
 **Transaction Hash:**
